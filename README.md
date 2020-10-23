@@ -1,5 +1,11 @@
 # leetcode_Reverse_String
 Leetcode Challenge Reverse String
+
+
+
+// How to reverse a string best and easy method
+
+
 class Solution {
     public void reverseString(char[] s) {
         int left = 0 ; int right = s.length-1;
